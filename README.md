@@ -1,5 +1,5 @@
 # Hospital-System
-## A simple C++ program to implement Hospital Management System.
+### A simple C++ program to implement Hospital Management System.
 
 There are 20 different Specializations. For each specialization, there are only 5 available spots.
 
